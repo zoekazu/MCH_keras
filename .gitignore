@@ -1,0 +1,6 @@
+*.bmp
+./dataset
+./hdf5
+*.h5
+.vscode
+*.pyc
